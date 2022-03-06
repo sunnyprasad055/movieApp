@@ -3,7 +3,7 @@ import SearchIcon from './search.svg'
 import './App.css'
 import Card from './Card'
     
-const API_URL = ' http://www.omdbapi.com/?i=tt3896198&apikey=767e5df6';
+const API_URL = ' https://www.omdbapi.com/?i=tt3896198&apikey=767e5df6';
 
 
 const App = () => {
